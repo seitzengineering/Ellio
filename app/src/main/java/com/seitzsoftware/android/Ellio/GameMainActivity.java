@@ -1,4 +1,4 @@
-package com.seitzsoftware.android.simpleandroidgdf;
+package com.seitzsoftware.android.Ellio;
 
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;

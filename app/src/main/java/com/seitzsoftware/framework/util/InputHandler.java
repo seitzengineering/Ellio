@@ -5,7 +5,7 @@ import android.view.View;
 import android.view.View.OnTouchListener;
 
 import com.seitzsoftware.game.state.State;
-import com.seitzsoftware.android.simpleandroidgdf.GameMainActivity;
+import com.seitzsoftware.android.Ellio.GameMainActivity;
 
 /**
  * Created by Kevin on 12/13/2015.

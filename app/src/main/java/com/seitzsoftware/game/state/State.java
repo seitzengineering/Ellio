@@ -2,7 +2,7 @@ package com.seitzsoftware.game.state;
 
 import android.view.MotionEvent;
 
-import com.seitzsoftware.android.simpleandroidgdf.GameMainActivity;
+import com.seitzsoftware.android.Ellio.GameMainActivity;
 import com.seitzsoftware.framework.util.Painter;
 
 /**

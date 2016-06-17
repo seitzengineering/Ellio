@@ -5,8 +5,8 @@ import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.view.MotionEvent;
 
-import com.seitzsoftware.android.simpleandroidgdf.Assets;
-import com.seitzsoftware.android.simpleandroidgdf.GameMainActivity;
+import com.seitzsoftware.android.Ellio.Assets;
+import com.seitzsoftware.android.Ellio.GameMainActivity;
 import com.seitzsoftware.framework.util.Painter;
 import com.seitzsoftware.game.model.Block;
 import com.seitzsoftware.game.model.Cloud;

@@ -2,7 +2,7 @@ package com.seitzsoftware.game.model;
 
 import android.graphics.Rect;
 
-import com.seitzsoftware.android.simpleandroidgdf.Assets;
+import com.seitzsoftware.android.Ellio.Assets;
 
 /**
  * Created by Kevin on 4/28/2016.

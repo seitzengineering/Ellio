@@ -1,4 +1,4 @@
-package com.seitzsoftware.android.simpleandroidgdf;
+package com.seitzsoftware.android.Ellio;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;

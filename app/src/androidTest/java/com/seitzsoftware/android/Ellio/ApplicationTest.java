@@ -1,4 +1,4 @@
-package com.seitzsoftware.android.simpleandroidgdf;
+package com.seitzsoftware.android.Ellio;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
