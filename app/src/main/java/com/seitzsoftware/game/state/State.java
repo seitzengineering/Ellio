@@ -2,11 +2,11 @@ package com.seitzsoftware.game.state;
 
 import android.view.MotionEvent;
 
-import com.seitzsoftware.framework.util.Painter;
 import com.seitzsoftware.android.simpleandroidgdf.GameMainActivity;
+import com.seitzsoftware.framework.util.Painter;
 
 /**
- * Created by Kevin on 12/13/2015.
+ * Created by Kevin on 4/28/2016.
  */
 public abstract class State {
     public void setCurrentState(State newState) {

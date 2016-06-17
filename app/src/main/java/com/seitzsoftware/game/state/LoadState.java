@@ -1,13 +1,13 @@
 package com.seitzsoftware.game.state;
 
 import android.view.MotionEvent;
+
 import com.seitzsoftware.android.simpleandroidgdf.Assets;
 import com.seitzsoftware.framework.util.Painter;
 
 /**
- * Created by Kevin on 12/13/2015.
+ * Created by Kevin on 4/28/2016.
  */
-
 public class LoadState extends State {
     @Override
     public void init() {
